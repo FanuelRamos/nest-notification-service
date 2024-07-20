@@ -2,7 +2,7 @@ POST http://localhost:3000/notifications
 Content-Type: application/json
 
 {
-  "recipientId": "any_uuid",
+  "recipientId": "26908630-6edf-418c-b51a-07f4d3846bfa",
   "content": "You have a new friend request",
   "category": "social"
 }
